@@ -1,7 +1,7 @@
-#This Python 3 script gathers names of all the files from the specified directory and all the directories nested inside.
+# This Python 3 script gathers names of all the files from the specified directory and all the directories nested inside.
 
-##Usage:
-####1. In terminal (solely for printing the file names)
+## Usage:
+#### 1. In terminal (solely for printing the file names)
 
     dir_name : obligatory positional argument, directory must either be in the
                current working directory or it's full path must be provided
@@ -18,7 +18,7 @@
     will be shown.
 
 
-####2. As module
+#### 2. As module
 
     Use the function get_files to get a mapping of all found files.
     
